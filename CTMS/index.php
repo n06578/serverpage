@@ -1,3 +1,5 @@
 <?
-phpinfo();
+// phpinfo();
+
+echo "ctms";
 ?>
